@@ -1,0 +1,14 @@
+.container-fluid {
+  background-color: silver;
+}
+.icon {
+  background-color: black;
+}
+.body1 {
+  background-color: red;
+  height: 500px;
+}
+.body2 {
+  background-color: green;
+  height: 50px;
+}
